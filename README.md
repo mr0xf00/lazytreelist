@@ -1,6 +1,5 @@
 # Lazy Tree List for Jetpack Compose
 
----
 <p align="center">
 <img src="https://img.shields.io/maven-central/v/io.github.mr0xf00/lazytreelist">
 </p>
